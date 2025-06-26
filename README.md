@@ -30,6 +30,10 @@
 
 ---
 
+### 시연 영상
+
+* https://www.youtube.com/watch?v=FnkZZv62so4
+
 ## 🎮 게임 플레이 가이드
 
 ***키 가이드***
